@@ -1,27 +1,29 @@
 Please answer the following questions:
 
 1. What is your full name?
-
+Yiying Yang
 
 
 2. What is the username for your GitHub account?
-
+imyiyingyang
 
 
 3. Where is your hometown?
-
+Hangzhou,CHINA
 
 
 4. What is your favorite local restaurant?
-
+Matsuri
 
 
 5. Name the last good book you read (title, author?).
-
+title:Miracles of the Namiya General Store
+author: Keigo Higashino
 
 
 6. Which album/artist is in heavy rotation on your iPod/iPhone/MP3 player/stream?
-
+Jay chou, a Chinese male singer
 
 
 7. If you were to build a web site for fun, what would it be about?
+My Travel Stories
